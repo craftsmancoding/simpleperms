@@ -1,0 +1,5 @@
+Changelog for Simple Perms.
+
+SimplePerms 1.0
+======================================
+Initial release....
